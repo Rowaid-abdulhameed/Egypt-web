@@ -45,7 +45,7 @@ iframe{
 }
 table tr th{
     --size: 50px;
-    color: rgb(0, 255, 0);
+    color: rgb(255, 247, 0);
     font-size: var(--size);
     background-color: black;
 }
